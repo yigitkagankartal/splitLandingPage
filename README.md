@@ -39,5 +39,5 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/split-landing-page.git
+git clone https://github.com/yigitkagankartal/splitLandingPage.git
 
