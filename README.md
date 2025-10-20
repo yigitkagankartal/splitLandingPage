@@ -18,9 +18,9 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 ## 🚀 Preview
 
 <p align="center">
-  <img src="./pic/prev.png" alt="Preview 1" width="30%" />
-  <img src="./pic/prev1.png" alt="Preview 2" width="30%" />
-  <img src="./pic/prev2.png" alt="Preview 3" width="30%" />
+  <img src="./pic/prev.png" alt="Preview 1" width="90%" />
+  <img src="./pic/prev1.png" alt="Preview 2" width="45%" />
+  <img src="./pic/prev2.png" alt="Preview 3" width="45%" />
 
 </p>
  
